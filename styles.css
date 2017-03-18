@@ -66,8 +66,12 @@ h3
 	width: 70%;
 }
 
-
 .bildstorlek
 {
 	width: 15%;
+}
+
+.typsnitt
+{
+	font-family: Titillium Web;
 }
