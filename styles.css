@@ -1,0 +1,20 @@
+.rund 
+{
+border radius:50%;
+}
+
+h3
+{
+color: ##ffffff;
+}
+
+.bakgrund
+{
+	background-color: #b8b894;
+	padding: 10px;
+}
+
+.bildstorlek
+{
+	border-image-width: 10px;
+}
