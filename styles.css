@@ -1,11 +1,11 @@
 .rund 
 {
-border radius:50%;
+	border-radius:50%;
 }
 
 h3
 {
-color: ##ffffff;
+	color: ##ffffff;
 }
 
 .bakgrund
@@ -14,7 +14,32 @@ color: ##ffffff;
 	padding: 10px;
 }
 
+.vittext
+{
+	color: #ffffff
+}
+
+.socialabilder
+{
+	padding: 10%;
+	
+}
+
+.jobbbilder
+{
+	border-image-width: 30px;
+	display: inline-block;
+	padding-right: 10%;
+	padding-left:10%;
+}
+
+.bildstorlekjobb
+{
+	width: 70%;
+}
+
+
 .bildstorlek
 {
-	border-image-width: 10px;
+	width: 15%;
 }
